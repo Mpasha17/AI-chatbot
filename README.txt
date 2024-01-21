@@ -6,7 +6,7 @@ dialogflow_assets: this has training phrases etc. for our intents
 frontend: website code
 
 Install these modules
-======================
+=====================
 
 pip install mysql-connector[
 pip install "fastapi[all]"
